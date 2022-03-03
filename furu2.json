@@ -1,0 +1,32 @@
+[
+{
+"Restaurant": "Mcdonalds",
+"Description": "McDonald's is an American multinational fast food corporation, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States.",
+"cat": "ff"
+},
+{
+"Restaurant": "Chipotle",
+"Description": "Chipotle Mexican Grill, Inc., often known simply as Chipotle, is an American chain of fast casual restaurants in the United States, United Kingdom, Canada, Germany, and France, specializing in tacos and Mission burritos that are made to order in front of the customer.",
+"cat": "rr"
+},
+{
+"Restaurant": "KFC",
+"Description": "KFC is an American fast food restaurant chain headquartered in Louisville, Kentucky that specializes in fried chicken. It is the world's second-largest restaurant chain after McDonald's, with 22,621 locations globally in 150 countries as of December 2019. The chain is a subsidiary of Yum! ",
+"cat": "ss"
+},
+{
+"Restaurant": "Popeyes",
+"Description": "Popeyes Louisiana Kitchen, Inc., also known as Popeyes and formerly named Popeyes Chicken & Biscuits and Popeyes Famous Fried Chicken & Biscuits, is an American multinational chain of fried chicken fast food restaurants that was founded in 1972 in New Orleans, Louisiana and headquartered in Miami, Florida",
+"cat": "ww"
+},
+{
+"Restaurant": "Chick-fil-A",
+"Description": "Chick-fil-A is one of the largest American fast food restaurant chains and the largest whose specialty is chicken sandwiches. Its headquarters is in College Park, Georgia.",
+"cat": "tt"
+},
+{
+"Restaurant": "Taco Bell",
+"Description": "Taco Bell is an American-based chain of fast food restaurants originating in Irvine, California in 1962, by founder Glen Bell. Taco Bell is a subsidiary of Yum! Brands, Inc. ",
+"cat": "ii"
+}
+]
